@@ -14,12 +14,13 @@ I am currently learning the following programming languages:
 * Python
 * C++
 * DM
+* JavaScript
 
 ### Tools and other stuff
 
 To work with the code I most often try to use Visual Studio Code, but in some cases I use something else.
 
-| Python             | C++                | DM                 |
-| :----------------- | :----------------- | :----------------- |
-| Visual Studio Code | Visual Studio code | Visual Studio code |
-| Pycharm            | Visual Studio 2019 |                    |
+| Python             | C++                | DM                 | JavaScript         |
+| :----------------- | :----------------- | :----------------- | :----------------- |
+| Visual Studio Code | Visual Studio code | Visual Studio code | Visual Studio code |
+| Pycharm            | Visual Studio 2019 |                    |                    |
